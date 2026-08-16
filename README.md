@@ -1,5 +1,5 @@
 # Safety Framework Cards
-
+ive Demo Rendered cards and side-by-side comparison view: https://safety-frameworks-cards-review.netlify.app/ 
 A standardized specification for documenting frontier AI safety commitments.
 
 [![Spec version](https://img.shields.io/badge/spec-v0.1-blue)](schema/safety_framework_card.schema.json)
