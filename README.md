@@ -9,13 +9,11 @@ Frontier AI labs publish public safety frameworks (Anthropic's RSP, OpenAI's Pre
 
 This is an *additive* artifact — it does not replace the framework. A lab maps its existing framework into the schema in roughly thirty minutes. The card is then validated, rendered to HTML, and diffed across versions.
 
-[Paper (PDF)](paper/paper.md) · [Live Cards](https://kpyakhmi.github.io/safety-framework-cards/) · [Quick Start](#quick-start) · License: MIT
+[Paper (PDF)](paper/paper.md) ·  · [Quick Start](#quick-start) · License: MIT
 
 ---
 
 ## Live Demo
-
-Rendered cards and side-by-side comparison view: **https://kpyakhmi.github.io/safety-framework-cards/**
 
 | Lab | Framework | Version |
 |---|---|---|
@@ -28,9 +26,6 @@ Rendered cards and side-by-side comparison view: **https://kpyakhmi.github.io/sa
 | Cohere | Secure AI Frontier Model Framework | v1.0 |
 | xAI | Risk Management Framework | v1.0 |
 | Mistral | *(no published framework)* | n/a |
-
-[→ Side-by-side comparison](https://kpyakhmi.github.io/safety-framework-cards/compare.html)
-
 ---
 
 ## What's in this repo
